@@ -11,3 +11,5 @@ The purpose of this is for other applications that do not have a Kernel operated
 # What's the future of this project?
 Currently, as of now, I am thinking about adding more intensive security checks, like attaching to the process and detecting when memory for DLL injection is being allocated and prevent it.
 Another thought for this project is turning it into Kernel Mode, restricting the abilities for User Mode bypasses for this DLL Detector. 
+
+![image](https://github.com/user-attachments/assets/7d27115b-171b-43af-92f2-81dbe0b62c07)
